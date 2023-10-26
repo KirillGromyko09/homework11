@@ -1,0 +1,10 @@
+.wrapper{
+    display: flex;
+    max-width: 1200px;
+}
+.item{
+    width: 25%;
+}
+ul{
+    list-style: none;
+}
